@@ -1,2 +1,2 @@
-# Assignement_1
+# Assignements
 Assignement
