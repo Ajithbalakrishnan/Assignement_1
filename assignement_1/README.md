@@ -1,5 +1,5 @@
 
-C++ output and pytorch outputs are not the same
+C++ output and PyTorch outputs are not the same
 
 
 I have applied various methods to make it aligned,
@@ -11,11 +11,11 @@ I have applied various methods to make it aligned,
     2. uniform initialization of weights and bias.
 
     
-    3. same normalization method on both side.
+    3. same normalization method on both sides.
 
     
-    4. difference in datatypes between c++ and python also tried to address. This need to be evaluated.
+    4. The difference in datatypes between C++ and Python is also addressed. This needs to be evaluated.
 
     
 
-The difference between datatypes of pytorch and c++ can be a problem.
+The difference between the datatypes of Pytorch and C++ can be a problem.
